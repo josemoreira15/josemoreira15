@@ -1,4 +1,4 @@
-![Header](./[[Your header image](https://i.imgur.com/DBJyZGR.gif)])
+ ![](https://i.imgur.com/DBJyZGR.gif)
 <h1 align="center">Hi 👋, I'm José Moreira</h1>
 <h3 align="center">A passionate Software Engineering student from Portugal</h3>
 

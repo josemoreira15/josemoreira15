@@ -1,4 +1,4 @@
-![](https://cdn.dribbble.com/users/1316562/screenshots/4640025/media/51f0a21ff257c04d2f38de6ce5387b62.gif)
+![](https://i.pinimg.com/736x/c3/b5/7a/c3b57a92b3ac6cafac8f4dd92625a570.jpg)
 <h1 align="center">Hi 👋, I'm José Moreira</h1>
 <h3 align="center">A passionate Software Engineering student from Portugal</h3>
 

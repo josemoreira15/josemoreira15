@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaammoreira15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaammoreira15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josé-moreira-a50884241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-moreira-a50884241" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josemoreira15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-moreira-a50884241" height="30" width="40" /></a>
 <a href="https://fb.com/topzen.moreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="topzen.moreira" height="30" width="40" /></a>
 <a href="https://instagram.com/jose.moreira.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jose.moreira.15" height="30" width="40" /></a>
 </p>
